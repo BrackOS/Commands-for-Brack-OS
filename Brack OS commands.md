@@ -2,7 +2,7 @@
 
 
 
-adm-sudo-sudo---adm is pronounced "adam" and is short for administrator 
+adm/sudo-sudo-sudo---adm is pronounced "adam" and is short for administrator. We kept in sudo for compatibility's sake. 
 
 
 
